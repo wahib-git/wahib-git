@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I'm Wahib 
+  ##                     & I'm a Full Stack Developer
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=wahib-git&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -18,5 +19,5 @@
 [![](https://visitcount.itsvg.in/api?id=wahib-git&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/wahib-git) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/wahib.bachoua.3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wahib-bachoua-6b79ab330) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@wahibbachoua9955) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bachoua.wahib@tek-up.de) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wahib-bachoua-6b79ab330)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bachoua.wahib@tek-up.de) 
 
