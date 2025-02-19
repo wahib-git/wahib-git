@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=wahib-git&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/wahib-git) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/wahib.bachoua.3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wahib-bachoua-6b79ab330) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@wahibbachoua9955) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bachoua.wahib@tek-up.de) 
 
@@ -11,10 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=wahib-git&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wahib-git&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wahib-git&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=wahib-git&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 
 
 ### 🔝 Top Contributed Repo
