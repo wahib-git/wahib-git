@@ -1,5 +1,6 @@
-## Hi there 👋 I'm Wahib 
-  ##                     & I'm a Full Stack Developer
+## Hi there 👋 I'm Wahib
+
+## Full Stack Developer
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=wahib-git&theme=radical&no-frame=false&no-bg=true&margin-w=4)
