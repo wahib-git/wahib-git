@@ -13,12 +13,8 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,git,github,gitlab,cs,java,nodejs,php,postman,mongodb,angular,aws,docker," />
   </a>
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wahib-git&show_icons=true&locale=en&layout=compact&bg_color=000000" alt="wahib-git" /></p>
 
-<p><img align="left" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/top-langs?username=wahib-git&show_icons=true&locale=en&layout=compact" alt="wahib-git" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wahib-git&show_icons=true&locale=en&bg_color=000000" alt="wahib-git" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wahib-git&show_icons=true&locale=en" alt="wahib-git" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wahib-git&" alt="wahib-git" /></p>
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wahib-git&bg_color=000000" alt="wahib-git" /></p>
