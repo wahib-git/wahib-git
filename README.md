@@ -18,3 +18,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wahib-git&show_icons=true&locale=en&bg_color=000000" alt="wahib-git" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wahib-git&bg_color=000000" alt="wahib-git" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=wahib-git&show_icons=true&locale=en&theme=dark&bg_color=111111&text_color=FFFFFF&title_color=D1D1D1&icon_color=FFFFFF&hide_border=true" alt="wahib-git" /></p>
