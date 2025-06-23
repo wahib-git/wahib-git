@@ -1,8 +1,29 @@
 <h1 align="center">Hi 👋, I'm wahib</h1>
 <h3 align="center">A passionate software engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wahib-git" alt="wahib-git" /></a> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E91E63&center=true&vCenter=true&random=false&width=700&lines=AI+Engineer+%7C+Web+Developer;Passionate+about+AI+for+Social+Impact;Driven+by+Purpose%2C+Empowered+by+Technology" alt="Typing SVG" />
+</div>
 
+
+---
+
+🚀 **About Me**  
+I'm a second-year Digital Sciences Engineering student  passionate about development and highly enthusiastic about AI technologies.
+
+💡 I thrive on building solutions that make a difference, exploring new technologies, and solving challenges across various domains.
+
+🌟 Whether it’s programming, prototyping, or innovating, I enjoy the process of turning ideas into reality.
+ Backend Developer
+
+
+- 🔭 Currently working on: building and deploying end-to-end web application powred by AI.
+- 🌱 Actively learning: **Gen AI**, **NLP**, and **Deep learning**
+- 💡 Interests: Human-centered tech, Social Impact Projects.
+- 👯 Open to collaborations in: full stack web developpment, AI, MLOps Projects, and Empowerment Initiatives
+- 🎯 Mission: Empower, Lead, and Create meaningful tech solutions
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wahib-bachoua-6b79ab330)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bachoua.wahib@tek-up.de) 
