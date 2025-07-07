@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 🚀 **About Me**  
-I'm a second-year Digital Sciences Engineering student  passionate about development and highly enthusiastic about AI technologies.
+<h3 I'm a second-year Digital Sciences Engineering student  passionate about development and highly enthusiastic about AI technologies.
 
 💡 I thrive on building solutions that make a difference, exploring new technologies, and solving challenges across various domains.
 
@@ -21,7 +21,7 @@ I'm a second-year Digital Sciences Engineering student  passionate about develop
 - 🌱 Actively learning: **Gen AI**, **NLP**, and **Deep learning**
 - 💡 Interests: Human-centered tech, Social Impact Projects.
 - 👯 Open to collaborations in: full stack web developpment, AI, MLOps Projects, and Empowerment Initiatives
-- 🎯 Mission: Empower, Lead, and Create meaningful tech solutions
+- 🎯 Mission: Empower, Lead, and Create meaningful tech solutions </h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
