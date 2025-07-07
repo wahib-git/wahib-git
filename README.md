@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm wahib</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">A passionate software engineer</h3>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E91E63&center=true&vCenter=true&random=false&width=700&lines=AI+Engineer+%7C+Web+Developer;Passionate+about+AI+for+Social+Impact;Driven+by+Purpose%2C+Empowered+by+Technology" alt="Typing SVG" />
 </div>
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 🚀 **About Me**  
 I'm a second-year Digital Sciences Engineering student  passionate about development and highly enthusiastic about AI technologies.
@@ -23,10 +23,7 @@ I'm a second-year Digital Sciences Engineering student  passionate about develop
 - 👯 Open to collaborations in: full stack web developpment, AI, MLOps Projects, and Empowerment Initiatives
 - 🎯 Mission: Empower, Lead, and Create meaningful tech solutions
 
----
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wahib-bachoua-6b79ab330)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bachoua.wahib@tek-up.de) 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌐 tech stack:
 
@@ -35,6 +32,7 @@ I'm a second-year Digital Sciences Engineering student  passionate about develop
     <img src="https://skillicons.dev/icons?i=php,java,nodejs,github,gitlab,mysql,mongodb,angular,docker," />
   </a>
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <table>
   <tr>
     <td>
