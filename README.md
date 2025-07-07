@@ -11,10 +11,10 @@
 🚀 **About Me**  
 <h4>
 💡I'm a second-year Digital Sciences Engineering student passionate about development and highly enthusiastic about AI technologies.
+  
   🌟 As a Backend Developer, whether it’s programming, prototyping, or innovating, I enjoy the process of turning ideas into reality.
 
 - 🔭 Currently working on: building and deploying end-to-end web application powered by AI.
-
 - 🌱 Actively learning: **Gen AI**, **NLP**, and **Deep learning**
 - 💡 Interests: Human-centered tech, Social Impact Projects.
 - 👯 Open to collaborations in: full stack web development, AI, MLOps Projects, and Empowerment Initiatives
