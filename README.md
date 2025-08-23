@@ -10,7 +10,7 @@
 
 🚀 **About Me**  
 <h4>
-💡I'm a second-year Digital Sciences Engineering student passionate about development and highly enthusiastic about AI technologies.
+💡I'm a final-year Digital Sciences Engineering student passionate about development and highly enthusiastic about AI technologies.
   
   🌟 As a Backend Developer, whether it’s programming, prototyping, or innovating, I enjoy the process of turning ideas into reality.
 
@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,java,nodejs,github,gitlab,mysql,mongodb,angular,docker," />
+    <img src="https://skillicons.dev/icons?i=php,java,nodejs,mysql,mongodb,angular,github,gitlab,jenkins,docker,kubernetes,aws," />
   </a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
