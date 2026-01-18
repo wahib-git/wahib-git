@@ -7,13 +7,14 @@
 
 🚀 **About Me**  
 <h4>
-💡I'm a final-year software Engineering student passionate about development and highly enthusiastic about devops.
+💡I'm a final-year software Engineering student passionate about development and devops.
   
   🌟 whether it’s programming, prototyping, or innovating, I enjoy the process of turning ideas into reality.
 
-- 🔭 Currently working on: building and deploying end-to-end web application powered by AI.
-- 🌱 Actively learning: **Cloud**, **CI/CD Automation**, and **DevSecOps**
-- 👯 Open to collaborations in: full stack web development, AI, end-to-end Projects, and Empowerment Initiatives
+- 🔭 Currently working on: building and deploying end-to-end web application that integrate AI models.
+- 🌱 Actively learning: **Cloud**, **CI/CD Automation**, and **DevSecOps**.
+- 👯 Open to collaborations in: full stack web development, AI, end-to-end Projects, and Empowerment Initiatives.
+- 🛡️ Security Focused: I build pipelines that protect code using **SAST/DAST** tools like SonarQube, Trivy, OWASP Dependency-Check, and GitLeaks.
 </h4>
 
 ## 🌐 tech stack:
