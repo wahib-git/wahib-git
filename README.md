@@ -7,9 +7,9 @@
 
 ---
 
-### 🚀 **About Me** 
-💡 **I'm a final-year Software Engineering student** passionate about Web Development, Security, and DevOps.  
-🌟 Whether it’s programming, prototyping, or innovating, I enjoy the process of turning ideas into secure, production-ready reality.
+###  **About Me** 
+ **I'm a final-year Software Engineering student** passionate about Web Development, Security, and DevOps.  
+ Whether it’s programming, prototyping, or innovating, I enjoy the process of turning ideas into secure, production-ready reality.
 
 - 🔭 **Currently working on:** Building and deploying end-to-end web applications that integrate AI models.
 - 🧪 **Quality Driven:** I implement **Automated Testing** (Selenium, Cypress) to ensure robust and bug-free software delivery.
@@ -20,10 +20,10 @@
 
 ---
 
-### 🌐 **Tech Stack**
+### 🌐 **Professional Skillset**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,java,nodejs,py,mysql,mongodb,graphql,angular,linux,github,githubactions,gitlab,jenkins,docker,kubernetes,terraform,aws" />
+    <img src="https://skillicons.dev/icons?i=php,java,python,mysql,mongodb,graphql,postman,selenium,nodejs,django,angular,react,linux,github,githubactions,gitlab,jenkins,docker,kubernetes,terraform,aws,prometheus,grafana" />
   </a>
 </p>
 <table>
