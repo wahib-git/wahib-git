@@ -1,31 +1,58 @@
-<h1 align="center">Hi 👋, I'm Wahib</h1>
-<h3 align="center">A Passionate Software Engineer</h3>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E91E63&center=true&vCenter=true&random=false&width=700&lines=DevOps+Enthousiaste+%7C+Web+Developer;Passionate+about+AI+Integration;Security-Focused+Engineer;" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Wahib%20Bachoua&fontAlign=50&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20DevOps%20Enthusiast&descAlign=50&descAlignY=55&color=0:0ea5e9,50:6366f1,100:0f172a" />
+
+###  Full-Stack Engineer | DevOps Mindset | AI Integration
+
+<p>
+  <a href="https://www.linkedin.com/in/wahib-bachoua/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=wahibbachoua95@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wahib-bachoua.github.io/"><img src="https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/🇪🇺%20EU%20Eligible-Yes-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀%20Open%20to%20Work-Immediately-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%20Looking for internship-YEs-6366f1?style=for-the-badge" />
+</p>
+
 </div>
 
 ---
 
-###  **About Me** 
- **I'm a final-year Software Engineering student** passionate about Web Development, Security, and DevOps.  
- Whether it’s programming, prototyping, or innovating, I enjoy the process of turning ideas into secure, production-ready reality.
+## 👨‍💻 Profile
 
-- 🔭 **Currently working on:** Building and deploying end-to-end web applications that integrate AI models.
-- 🧪 **Quality Driven:** I implement **Automated Testing** (Selenium, Cypress) to ensure robust and bug-free software delivery.
-- 🛡️ **Security Focused:** I design pipelines that protect code using **SAST/DAST** tools (SonarQube, Trivy, OWASP, GitLeaks).
-- 🌱 **Actively mastering:** Advanced Cloud architectures, CI/CD Automation, and DevSecOps patterns.
-- 📊 **Observability:** I implement monitoring solutions with **Prometheus & Grafana** to ensure system reliability.
-- 👯 **Open to collaborations in:** Full-stack development, AI projects, and AWS cloud infrastructure.
+I'm a final-year Software Engineering student passionate about Web Development, Security, and DevOps.
+
+**Core expertise:**
+- Frontend: TypeScript, React, Next.js (SSR/SSG/ISR), Angular, Tailwind CSS.
+- Backend: Node.js, Django ,Spring Boot, REST APIs.
+- Databases: MySQL, PostgreSQL, SQL Server.
+- DevOps: Docker, Linux (Ubuntu), Nginx, GitHub Actions, Gitlab, jenkins, aws.
+- Observability: Prometheus & Grafana.
+- Security & quality : Selenium, Cypress, SonarQube.
+
+ I enjoy the process of turning ideas into secure, production-ready reality.
 
 ---
 
-### 🌐 **Professional Skillset**
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,java,python,mysql,mongodb,graphql,postman,selenium,nodejs,django,angular,react,linux,github,githubactions,gitlab,jenkins,docker,kubernetes,terraform,aws,prometheus,grafana" />
-  </a>
-</p>
+## 🛠️ Technical Stack
+
+<div align="center">
+
+### Core Technologies
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,tailwind&perline=6" />
+
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=py,nodejs,django,spring,mysql,mongo&perline=6" />
+
+### DevOps & Infrastructure
+<img src="https://skillicons.dev/icons?i=linux,docker,git,githubactions,gitlab,jenkins,terraform,aws,prometheus,grafana&perline=6" />
+
+</div>
+
+---
+
 <table>
   <tr>
     <td>
@@ -39,3 +66,23 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+<p>
+  <a href="https://www.linkedin.com/in/wahib-bachoua/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=wahibbachoua95@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wahib-bachoua.github.io/"><img src="https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:6366f1,100:0ea5e9" />
+</div>
