@@ -25,7 +25,7 @@
 I'm a final-year Software Engineering student passionate about Web Development, Security, and DevOps.
 
 **Core expertise:**
-- Frontend: Next.js (SSR/SSG/ISR), React, Angular, Tailwind CSS, HTML, CSS.
+- Frontend: Typescript, Next.js (SSR/SSG/ISR), React, Angular, Tailwind CSS, HTML, CSS.
 - Backend: Node.js, Django ,Spring Boot, REST APIs.
 - APIs testing : Postman
 - Automated testing : Cypress, Selenium.
