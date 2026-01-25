@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Wahib%20Bachoua&fontAlign=50&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20DevOps%20Enthusiast&descAlign=50&descAlignY=55&color=0:0ea5e9,50:6366f1,100:0f172a" />
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=wahib-bachoua&label=Profile%20views&color=0e75b6&style=flat" alt="wahib-bachoua" /> </p>
 
 ###  Full-Stack Engineer | DevOps Mindset | AI Integration
 
