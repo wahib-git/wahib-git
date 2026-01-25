@@ -5,15 +5,15 @@
 ###  Full-Stack Engineer | DevOps Mindset | AI Integration
 
 <p>
+  <a href="https://wahib-bachoua.github.io/"><img src="https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/wahib-bachoua/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=wahibbachoua95@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://wahib-bachoua.github.io/"><img src="https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/%20Looking for internship-YEs-6366f1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🇪🇺%20EU%20Eligible-Yes-22c55e?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🚀%20Open%20to%20Work-Immediately-0ea5e9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/%20Looking for internship-YEs-6366f1?style=for-the-badge" />
 </p>
 
 </div>
@@ -25,14 +25,16 @@
 I'm a final-year Software Engineering student passionate about Web Development, Security, and DevOps.
 
 **Core expertise:**
-- Frontend: TypeScript, React, Next.js (SSR/SSG/ISR), Angular, Tailwind CSS.
+- Frontend: Next.js (SSR/SSG/ISR), React, Angular, Tailwind CSS, HTML, CSS.
 - Backend: Node.js, Django ,Spring Boot, REST APIs.
-- Databases: MySQL, PostgreSQL, SQL Server.
-- DevOps: Docker, Linux (Ubuntu), Nginx, GitHub Actions, Gitlab, jenkins, aws.
+- APIs testing : Postman
+- Automated testing : Cypress, Selenium.
+- Quality testing : SonarQube.
+- Security testing: Trivy, OWASP.
+- DevOps: Docker, Linux, Nginx, GitHub Actions, Gitlab, jenkins, aws.
 - Observability: Prometheus & Grafana.
-- Security & quality : Selenium, Cypress, SonarQube.
-
- I enjoy the process of turning ideas into secure, production-ready reality.
+  
+ I manage the complete lifecycle of modern software systems: development, testing, CI/CD automation, deployment and monitoring.
 
 ---
 
@@ -47,7 +49,7 @@ I'm a final-year Software Engineering student passionate about Web Development, 
 <img src="https://skillicons.dev/icons?i=py,nodejs,django,spring,mysql,mongo&perline=6" />
 
 ### DevOps & Infrastructure
-<img src="https://skillicons.dev/icons?i=linux,docker,git,githubactions,gitlab,jenkins,terraform,aws,prometheus,grafana&perline=6" />
+<img src="https://skillicons.dev/icons?i=linux,docker,git,githubactions,gitlab,jenkins,,terraform,aws,prometheus,grafana&perline=6" />
 
 </div>
 
