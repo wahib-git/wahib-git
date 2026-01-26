@@ -47,7 +47,7 @@ I'm a final-year Software Engineering student passionate about Web Development, 
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,tailwind&perline=6" />
 
 ### Backend & Databases
-<img src="https://skillicons.dev/icons?i=py,nodejs,django,spring,mysql,mongo&perline=6" />
+<img src="https://skillicons.dev/icons?i=py,nodejs,django,mysql,mongo&perline=6" />
 
 ### DevOps & Infrastructure
 <img src="https://skillicons.dev/icons?i=linux,docker,git,githubactions,gitlab,jenkins,,terraform,aws,prometheus,grafana&perline=6" />
